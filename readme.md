@@ -1,2 +1,2 @@
-This is private repository for learning coding.
+This is a private repository for learning coding. 
 WLB is ideal life!
